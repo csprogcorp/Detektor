@@ -1,0 +1,26 @@
+*** PROYECTO ***
+
+Nombre: Detektor
+Dir www: var/www/html/Users
+
+Condiciones de Montaje:
+Vers PHP: 5.6.38-2
+Ubuntu: 18.04.1+Deb.sury.org+1
+Apache: 2.4.29(ubuntu)
+
+Archivos:
+Creacion de tablas PG: tablas.sql
+Ubicacion: var/www/html/Users/SQL
+
+Aplicacion:
+encabezado.php
+pie.php
+conexion.php 
+form_Registrar.php
+registrar.php
+listar.php
+editar.php
+actualizar.php
+eliminar.php
+
+
